@@ -1,4 +1,12 @@
-## Hi everyone! I am Guilherme, undergraduate Computer Science student at the University of Central Florida.
+### :woman_technologist: About Me :
+Hi everyone! I am Guilherme, thank you for visiting my profile!
+
+- :telescope: I am an undergraduate CS student at the University of Central Florida and aspiring Software Engineer
+
+- :seedling: Interested primarily in mobile development.
+
+- :zap: I am always eager to learn new technologies!
+
 <div align="center">
   <a href="https://github.com/guigocamara">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guigocamara&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -6,7 +14,7 @@
 </div>
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Swift" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">
+  <img align="center" alt="Gui-Swift" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">
   <img align="center" alt="Rafa-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
