@@ -1,5 +1,6 @@
-### :woman_technologist: About Me :
 ## Hi everyone! I am Guilherme, thank you for visiting my profile!
+
+### :woman_technologist: About Me :
 
 - :telescope: I am an undergraduate CS student at the University of Central Florida and aspiring Software Engineer.
 
