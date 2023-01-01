@@ -4,7 +4,7 @@
 
 - :telescope: I am an undergraduate CS student at the University of Central Florida and aspiring Software Engineer.
 
-- :seedling: Interested primarily in mobile development.
+- :seedling: Interested in mobile development.
 
 - :zap: I am always eager to learn new technologies!
 
