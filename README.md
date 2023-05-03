@@ -8,9 +8,8 @@
 
 - :zap: I am always eager to learn new technologies!
 
-<img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guigocamara&layout=compact&hide_title=1&card_width=300&theme=dark" alt="Top languages used in my repos" />
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guigocamara&hide=contribs,issues&count_private=true&show_icons=true&theme=dark)
+<img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guigocamara&layout=compact&hide_title=1&card_width=300&theme=dark" alt="Top languages used in my repos" />
 
 ### :hammer_and_wrench: Languages and Tools :
  
