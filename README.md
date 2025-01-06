@@ -2,9 +2,9 @@
 
 ### :woman_technologist: About Me :
 
-- :telescope: I am an undergraduate CS student at the University of Central Florida and aspiring Software Engineer.
+- :telescope: I am a Computer Science graduate from the University of Central Florida and aspiring Software Engineer.
 
-- :seedling: Interested primarily in mobile development.
+- :seedling: Interested in back-end/mobile development.
 
 - :zap: I am always eager to learn new technologies!
 
