@@ -2,7 +2,7 @@
 
 ### :woman_technologist: About Me :
 
-- :telescope: I am a Computer Science graduate from the University of Central Florida and aspiring Software Engineer.
+- :telescope: I am a Computer Science graduate from the University of Central Florida and a Junior Software Engineer.
 
 - :seedling: Interested in back-end/mobile development.
 
